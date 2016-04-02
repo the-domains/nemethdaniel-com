@@ -1,7 +1,7 @@
-name: nemethdaniel.com
+name: Nemeth Daniel
 favicon: null
-layout_spectrum: 0.8978729292284697
-typography_spectrum: 0.8040002987254411
+layout_spectrum: 0.91352
+typography_spectrum: 0.53308
 title: nemethdaniel.com
 cta:
   domain: null
@@ -22,7 +22,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.10730725503526628
+  brandStrength: 0.125
   lightness: 0.8366737209726125
   saturation: 0.18821305222809315
   rhythmicContrast: 0.5105186840519309
